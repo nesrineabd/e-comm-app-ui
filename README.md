@@ -1,2 +1,2 @@
 # e-comm-app
-Mobile App made with flutter 
+E-commerce mobile app for a plumbing supply store 
